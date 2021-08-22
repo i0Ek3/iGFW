@@ -1,7 +1,10 @@
 # Resources
 
+> Check and use it, don't speak.
+
 ## Doit
 
+- [233boy/v2ray](https://github.com/233boy/v2ray)
 - [haoel.github.io](https://github.com/haoel/haoel.github.io)
 - [shadowsocks_install](https://github.com/teddysun/shadowsocks_install)
 - [shadowsocks_install](https://github.com/iMeiji/shadowsocks_install)
@@ -44,10 +47,10 @@ Summary: [Click here](https://www.mediafire.com/folder/sfqz8bmodqdx5/shadowsocks
 
 ## Sites
 
+- [V2Ray 配置指南](https://guide.v2fly.org)
 - [new-pac](https://github.com/Alvin9999/new-pac)
 - [fanqiang](https://github.com/bannedbook/fanqiang)
 - [https://p3terx.com](https://p3terx.com)
 - [https://v2raytech.com](https://v2raytech.com)
 - [http://tr1.freeair888.club](http://tr1.freeair888.club)
-- [V2Ray 配置指南](https://guide.v2fly.org)
 - [https://vpncn.github.io](https://vpncn.github.io)
