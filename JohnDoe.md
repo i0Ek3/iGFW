@@ -1,28 +1,23 @@
 # JohnDoe
 
+> Check and use it, don't speak.
+
+
+
 Nothing can be guaranteed at your own risk!
-
-
 
 ## Guides
 
 - https://www.v2ray.com
-
 - https://toutyrater.github.io
-
 - https://guide.v2fly.org
-
 - https://vpncn.github.io/
-
+- [haoel.github.io](https://github.com/haoel/haoel.github.io)
 - [GitHub - hijkpw/scripts at master](https://github.com/hijkpw/scripts/tree/master)
-
 - [GitHub - zhaoweih/Shadowsocks-Tutorial](https://github.com/zhaoweih/Shadowsocks-Tutorial)
-
 - [GitHub - v2net/ios](https://github.com/v2net/ios)
-
 - https://github.com/DaoChen6/IF-XTW
 
-- [Config Proxifier](https://github.com/selierlin/Share-SSR-V2ray/blob/master/Other/8-proxifier-settings.md)/[Official Proxifier]([Introduction](https://www.proxifier.com/docs/win-v4/))
 
 
 
@@ -62,34 +57,49 @@ Nothing can be guaranteed at your own risk!
 
 ## Clients
 
+> X/V2ray
+
 - [GitHub - 2dust/v2rayN](https://github.com/2dust/v2rayN)
-
 - [GitHub - 2dust/v2rayNG](https://github.com/2dust/v2rayNG)
-
 - [GitHub - yanue/V2rayU at master](https://github.com/yanue/V2rayU/tree/master)
-
 - [GitHub - v2rayA/v2rayA: A Linux web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel 🚀](https://github.com/v2rayA/v2rayA)
-
 - ~~[GitHub - Cenmrev/V2RayX: GUI for v2ray-core on macOS](https://github.com/Cenmrev/V2RayX)~~
-
 - ~~[GitHub - Cenmrev/V2RayW: GUI for v2ray-core on Windows](https://github.com/Cenmrev/V2RayW)~~
-
 - https://github.com/kuoruan/openwrt-v2ray
-
 - [GitHub - jiangxufeng/v2rayL](https://github.com/jiangxufeng/v2rayL)
-
 - ~~[GitHub - Qv2ray/Qv2ray](https://github.com/Qv2ray/Qv2ray)~~
-
 - [GitHub - SagerNet/SagerNet: The universal proxy toolchain for Android](https://github.com/SagerNet/SagerNet)
-
 - https://github.com/xxf098/shadowsocksr-v2ray-trojan-android
-
-- https://github.com/shadowsocks/shadowsocks-android
-
 - [GitHub - TheMRLL/WinXray](https://github.com/TheMRLL/WinXray)
-
 - [GitHub - Dr-Incognito/V2Ray-Desktop](https://github.com/Dr-Incognito/V2Ray-Desktop)
 
+> Clash
+
+- [Dreamacro/clash](https://github.com/Dreamacro/clash)
+- [vernesong/OpenClash](https://github.com/vernesong/OpenClash)
+- [juewuy/ShellClash](https://github.com/juewuy/ShellClash)
+- [yichengchen/clashX](https://github.com/yichengchen/clashX)
+- [Kr328/ClashForAndroid](https://github.com/Kr328/ClashForAndroid)
+- [Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg)
+- [ClashDotNetFramework/ClashDotNetFramework](https://github.com/ClashDotNetFramework/ClashDotNetFramework)
+- [haishanh/yacd](https://github.com/haishanh/yacd)
+- [BoyceLig/Clash_Chinese_Patch](https://github.com/BoyceLig/Clash_Chinese_Patch)
+
+
+> Shadowsocks
+
+- [https://shadowsocks.org/en/download/clients.html](https://shadowsocks.org/en/download/clients.html)
+- [shadowsocks/shadowsocks](https://github.com/shadowsocks/shadowsocks)
+- [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev)
+- [openwrt-shadowsocks](https://github.com/shadowsocks/openwrt-shadowsocks)
+- [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
+- [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG)
+
+> Other
+
+- [openvpn-install](https://github.com/angristan/openvpn-install)
+- [openvpn-install](https://github.com/Nyr/openvpn-install)
+- [VPS-web-hacking-tools](https://github.com/supr4s/VPS-web-hacking-tools)
 - [GitHub - dodois/Doisnet](https://github.com/dodois/Doisnet)
 
 
@@ -141,16 +151,12 @@ Nothing can be guaranteed at your own risk!
 ## Blogs
 
 - https://teddysun.com
-
 - http://p3terx.com/
-
 - https://www.youneed.win
-
 - https://1808.ga/
-
 - https://52bp.org/
-
 - https://appledi.com/
+- [https://v2raytech.com](https://v2raytech.com)
 
 
 
@@ -165,5 +171,4 @@ Nothing can be guaranteed at your own risk!
 - https://github.com/XrayR-project/XrayR
 
 - [GitHub - FunctionClub/V2ray.Fun: 正在开发的全新 V2ray.Fun](https://github.com/FunctionClub/V2ray.Fun)
-
 

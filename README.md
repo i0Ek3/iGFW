@@ -3,12 +3,7 @@
 > Let's fucking the GFW.
 
 
-## You Know It
-
-- [JohnDoe.md](#JohnDoe.md) 
-
-
-## Log 
+## You Should Know It
 
 No special, don't bother me. YOUR OWN RISK.
 
