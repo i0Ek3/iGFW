@@ -2,9 +2,7 @@
 
 > Let's fucking the GFW.
 
-## Note
-
-minirc/setup.sh: Configurate available minimal zshrc/vimrc for VPS use.
+Configurate available minimal zshrc/vimrc for VPS use, but install zsh/vim/ohmyzsh first.
 
 
 ## You Should Know It

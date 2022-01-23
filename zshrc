@@ -117,10 +117,18 @@ source $ZSH/oh-my-zsh.sh
 ## alias for common commands
 
 # common ones
+alias lla="ls -ahl"
+alias mi="micro"
 alias c='clear'
 alias e='exit'
+alias vz='vim ~/.zshrc'
+alias vv='vim ~/.vimrc'
+alias vt='vim ~/.tmux.conf'
 alias vsh='vim /etc/sshd/sshd_config'
 alias resh='service sshd restart'
 alias x2='wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.com/wulabing/Xray_onekey/nginx_forward/install.sh" && chmod +x install.sh && bash install.sh'
 alias one='bash <(curl -Lso- https://git.io/oneclick)'
 alias v2='wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh'
+alias frp='wget https://code.aliyun.com/MvsCode/frps-onekey/raw/master/install-frps.sh -O ./install-frps.sh; chmod 700 ./install-frps.sh ; ./install-frps.sh install'
+alias pxy='curl -L https://mirrors.host900.com/https://github.com/snail007/proxy_admin_free/blob/master/install_auto.sh | bash'
+alias nging='sudo sh -c "$(wget https://gitee.com/admpub/nging/raw/master/nging-installer.sh -O -)"'
