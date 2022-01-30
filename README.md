@@ -4,6 +4,20 @@
 
 Configurate available minimal zshrc/vimrc for VPS use, but install zsh/vim/ohmyzsh first.
 
+## How To
+
+```Shell
+$ git clone git@github.com:i0Ek3/iGFW
+$ cd script ; ./setup.sh
+```
+Or
+
+```Shell
+$ wget https://github.com/i0Ek3/iGFW/archive/refs/heads/master.zip
+$ unzip master.zip -x
+$ cd script ; ./setup.sh
+```
+
 
 ## You Should Know It
 
