@@ -8,14 +8,14 @@ Configurate available minimal zshrc/vimrc for VPS use, but install zsh/vim/ohmyz
 
 ```Shell
 $ git clone git@github.com:i0Ek3/iGFW
-$ cd script ; ./setup.sh
+$ cd iGFW/script ; ./setup.sh
 ```
 Or
 
 ```Shell
 $ wget https://github.com/i0Ek3/iGFW/archive/refs/heads/master.zip
 $ unzip master.zip -x
-$ cd script ; ./setup.sh
+$ cd iGFW-master/script ; ./setup.sh
 ```
 
 
